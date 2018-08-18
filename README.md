@@ -1,4 +1,6 @@
 # fuzzy
+Retrieval-based bot using Vectors
+
 "Ideally, a socialbot should be able to ingest and update its knowledge base automatically; however, this
 is an unsolved problem and an active area of research"...or is it?
 
